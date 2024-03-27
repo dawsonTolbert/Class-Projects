@@ -1,0 +1,16 @@
+Students who have spent more time at Concord will get preference (avg credit hours + 5 incrementally)
+
+Number of credit hours?: # of credit hours
+
+1st year at Concord: 0
+2nd year at Concord: 10
+3rd year at Concord: 15
+4th year at Concord: 20
+
+23+ years old: 5
+Full-Time, Off-Campus Program Credit (e.g. student teaching): 5
+Disability: 20
+
+Academic probation: -5
+Possible Academic Suspension: -10 points
+On Disciplinary Probation at Any Point during the Academic Year: -15

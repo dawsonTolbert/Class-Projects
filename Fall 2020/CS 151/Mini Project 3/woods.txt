@@ -1,0 +1,23 @@
+woods locations:
+
+----------
+|A1 A2 A3|		North
+|B1 B2 B3 B4        West     East
+|C1 C2 C3|		South
+----------
+
+A1: CAVE (too scared to go in)
+A2: CABIN
+A3: nothing
+
+B1: nothing
+B2: ROOM 
+B3: nothing / SIGHT OF ESCAPE
+B4: EMPTY ROAD / ESCAPE
+
+C1: nothing 
+C2: nothing
+C3: WELL
+
+I want DIRECTION to be malleable so I can input the function and go
+to the next location without having to rewrite the whole function
