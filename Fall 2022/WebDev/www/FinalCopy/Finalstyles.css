@@ -1,0 +1,56 @@
+body	{background-image: radial-gradient(red, purple, green)}
+h1		{color:white;font-family: Palatino}
+h2		{color:white}
+p		{color:white;font-family: Baskerville }
+th		{width:500px;font-size:25;color:white}
+td		{color:white}
+q		{color:white}
+h3		{color:white}
+h4		{color:white}
+a		{color:black}
+
+img.icon	{border: 5px solid black; border-radius: 5px}
+
+img.main {border: 5px solid black; border-radius: 5px}
+
+img.brand {border: 5px solid white; border-radius: 5px}
+
+
+iframe.xbox{background-color:green;height:500px;width:800px}
+h1.xbox {color:black;font-family: Optima}
+body.xbox {background-image:linear-gradient(green, white, green)}
+img.xbox {border: 5px solid black; border-radius: 5px}
+
+h1.playstation {color:black;font-family: Monaco}
+body.playstation {background-image: linear-gradient(to right, red,purple,magenta,blue,indigo,lightblue)}
+img.playstation {border: 5px solid black; border-radius: 5px}
+iframe.playstation{background-color:blue;height:500px;width:800px}
+
+h1.pc {color:black;font-family: Arial}
+body.pc {background-image: radial-gradient(yellow, violet)}
+img.pc {border: 5px solid black; border-radius: 5px}
+iframe.pc{background-color:green;height:500px;width:800px}
+
+h1.nintendo	{color:black;font-family: Impact;font-size:300%;font-color:white}
+body.nintendo {background-image: linear-gradient(to bottom right, red, blue,black)}
+img.nintendo {border: 5px solid black; border-radius: 5px}
+iframe.nintendo{background-color:white;height:500px;width:800px}
+a.nintendo{color:white}
+
+
+
+th.header {margin-left:100px}
+
+p.brand  {margin-left:100px}
+
+p.header {font-family:Impact;font-size:300%}
+
+h1.page1{color:white;font-family: Palatino;font-size:350%}
+
+hr.new1 {border: 5px solid black; border-radius: 5px}
+
+
+p.solid {border-style: solid;color:green}
+p.solidd {border-style: solid;color:white}
+
+

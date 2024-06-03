@@ -1,0 +1,17 @@
+body             {background:#360703}
+th               {color:white}
+th#name          {color:white;
+                  font-family:Georgia}
+th#blank         {width:50%}
+tr#headRibbon    {background:#400601;
+                  line-height: 75px}
+a                {color:white;
+                  text-decoration:none;
+                  font-size:175%}
+h1               {color:white}
+h1#page-title    {color:white;
+                  text-align:center}
+li               {color:white}
+table            {width:100%;
+                  border-collapse:collapse}
+td               {text-align:center}

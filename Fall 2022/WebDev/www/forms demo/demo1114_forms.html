@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <form name="example" action="process.php" method="post" autocomplete="off">
+      <fieldset><legend>Lab Results</legend>
+      <p>Comments: <input type="text" name="comments" required></p>
+      <p>Lab code: <input type="text" name="code" required></p>
+      <p>Lab PIN: <input type="password" name="pin" required></p>
+      <p>Results:
+        <input type="radio" name="status" value="Successful" >Successful
+        <input type="radio" name="status" value="Not Successful" checked>Not Successful
+        <input type="radio" name="status" value="Inconclusive">Inconclusive</p>
+      <p><input type="checkbox" name="flag" value="true" 
+        checked="checked">Flag for followup</p>
+      <p>Growth rate: <select name="growth">
+        <option value="Slow">Slow</option>
+        <option value="Medium">Medium</option>
+        <option value="Fast">Fast</option></select></p>
+      <p><input type="submit" name="submit" value="Submit Data"></p></fieldset>
+    </form>
+  </body>
+</html>
